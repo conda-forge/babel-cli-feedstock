@@ -1,5 +1,5 @@
 context:
-  version: "7.27.0"
+  version: "7.27.1"
 
 package:
   name: babel-cli
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/@babel/cli/-/cli-${{ version }}.tgz
-  sha256: d8bac6f17309305c8b6222377ae1ea26ee65c058d167eaaa9dfd35eac860cfed
+  sha256: 5c8852751b06b0edbe0b9185af46d7c03ecc59839cf967159e86314ae126877a
 
 build:
   number: 0
